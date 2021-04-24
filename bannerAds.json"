@@ -1,0 +1,12 @@
+{
+    "body": {
+        "bannerAds": {
+            "bannerCode": "CSK001",
+            "bannerImgURL": "https://static.gamifyi.com/images/Banners/HeaderBanners/mobilecase.jpeg",
+            "bannerDate": "2021-04-22T00:00:00",
+            "redirectUrl": null,
+            "bannerTitle": "Play & Earn Whistles",
+            "bannerPriority": 0
+        }
+    }
+ }
